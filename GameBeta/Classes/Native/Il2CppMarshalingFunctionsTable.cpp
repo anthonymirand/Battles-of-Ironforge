@@ -1,0 +1,289 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "class-internals.h"
+#include "codegen/il2cpp-codegen.h"
+
+extern "C" void Context_t1_80_marshal ();
+extern "C" void Context_t1_80_marshal_back ();
+extern "C" void Context_t1_80_marshal_cleanup ();
+extern "C" void PreviousInfo_t1_81_marshal ();
+extern "C" void PreviousInfo_t1_81_marshal_back ();
+extern "C" void PreviousInfo_t1_81_marshal_cleanup ();
+extern "C" void Escape_t1_82_marshal ();
+extern "C" void Escape_t1_82_marshal_back ();
+extern "C" void Escape_t1_82_marshal_cleanup ();
+extern "C" void MonoIOStat_t1_249_marshal ();
+extern "C" void MonoIOStat_t1_249_marshal_back ();
+extern "C" void MonoIOStat_t1_249_marshal_cleanup ();
+extern "C" void ParameterModifier_t1_365_marshal ();
+extern "C" void ParameterModifier_t1_365_marshal_back ();
+extern "C" void ParameterModifier_t1_365_marshal_cleanup ();
+extern "C" void ResourceInfo_t1_377_marshal ();
+extern "C" void ResourceInfo_t1_377_marshal_back ();
+extern "C" void ResourceInfo_t1_377_marshal_cleanup ();
+extern "C" void DSAParameters_t1_592_marshal ();
+extern "C" void DSAParameters_t1_592_marshal_back ();
+extern "C" void DSAParameters_t1_592_marshal_cleanup ();
+extern "C" void RSAParameters_t1_622_marshal ();
+extern "C" void RSAParameters_t1_622_marshal_back ();
+extern "C" void RSAParameters_t1_622_marshal_cleanup ();
+extern "C" void ProcInfo_t3_206_marshal ();
+extern "C" void ProcInfo_t3_206_marshal_back ();
+extern "C" void ProcInfo_t3_206_marshal_cleanup ();
+extern "C" void InotifyEvent_t3_271_marshal ();
+extern "C" void InotifyEvent_t3_271_marshal_back ();
+extern "C" void InotifyEvent_t3_271_marshal_cleanup ();
+extern "C" void WaitForChangedResult_t3_263_marshal ();
+extern "C" void WaitForChangedResult_t3_263_marshal_back ();
+extern "C" void WaitForChangedResult_t3_263_marshal_cleanup ();
+extern "C" void SmtpResponse_t3_317_marshal ();
+extern "C" void SmtpResponse_t3_317_marshal_back ();
+extern "C" void SmtpResponse_t3_317_marshal_cleanup ();
+extern "C" void Win32_IN6_ADDR_t3_351_marshal ();
+extern "C" void Win32_IN6_ADDR_t3_351_marshal_back ();
+extern "C" void Win32_IN6_ADDR_t3_351_marshal_cleanup ();
+extern "C" void Win32_MIB_TCPROW_t3_352_marshal ();
+extern "C" void Win32_MIB_TCPROW_t3_352_marshal_back ();
+extern "C" void Win32_MIB_TCPROW_t3_352_marshal_cleanup ();
+extern "C" void Win32_MIB_TCP6ROW_t3_353_marshal ();
+extern "C" void Win32_MIB_TCP6ROW_t3_353_marshal_back ();
+extern "C" void Win32_MIB_TCP6ROW_t3_353_marshal_cleanup ();
+extern "C" void Win32_MIB_UDPROW_t3_354_marshal ();
+extern "C" void Win32_MIB_UDPROW_t3_354_marshal_back ();
+extern "C" void Win32_MIB_UDPROW_t3_354_marshal_cleanup ();
+extern "C" void Win32_MIB_UDP6ROW_t3_355_marshal ();
+extern "C" void Win32_MIB_UDP6ROW_t3_355_marshal_back ();
+extern "C" void Win32_MIB_UDP6ROW_t3_355_marshal_cleanup ();
+extern "C" void Win32_IP_PER_ADAPTER_INFO_t3_376_marshal ();
+extern "C" void Win32_IP_PER_ADAPTER_INFO_t3_376_marshal_back ();
+extern "C" void Win32_IP_PER_ADAPTER_INFO_t3_376_marshal_cleanup ();
+extern "C" void Win32_MIB_ICMP_EX_t3_396_marshal ();
+extern "C" void Win32_MIB_ICMP_EX_t3_396_marshal_back ();
+extern "C" void Win32_MIB_ICMP_EX_t3_396_marshal_cleanup ();
+extern "C" void Win32_MIBICMPSTATS_EX_t3_395_marshal ();
+extern "C" void Win32_MIBICMPSTATS_EX_t3_395_marshal_back ();
+extern "C" void Win32_MIBICMPSTATS_EX_t3_395_marshal_cleanup ();
+extern "C" void ifaddrs_t3_398_marshal ();
+extern "C" void ifaddrs_t3_398_marshal_back ();
+extern "C" void ifaddrs_t3_398_marshal_cleanup ();
+extern "C" void sockaddr_in6_t3_400_marshal ();
+extern "C" void sockaddr_in6_t3_400_marshal_back ();
+extern "C" void sockaddr_in6_t3_400_marshal_cleanup ();
+extern "C" void in6_addr_t3_401_marshal ();
+extern "C" void in6_addr_t3_401_marshal_back ();
+extern "C" void in6_addr_t3_401_marshal_cleanup ();
+extern "C" void sockaddr_ll_t3_402_marshal ();
+extern "C" void sockaddr_ll_t3_402_marshal_back ();
+extern "C" void sockaddr_ll_t3_402_marshal_cleanup ();
+extern "C" void ifaddrs_t3_404_marshal ();
+extern "C" void ifaddrs_t3_404_marshal_back ();
+extern "C" void ifaddrs_t3_404_marshal_cleanup ();
+extern "C" void in6_addr_t3_407_marshal ();
+extern "C" void in6_addr_t3_407_marshal_back ();
+extern "C" void in6_addr_t3_407_marshal_cleanup ();
+extern "C" void sockaddr_in6_t3_408_marshal ();
+extern "C" void sockaddr_in6_t3_408_marshal_back ();
+extern "C" void sockaddr_in6_t3_408_marshal_cleanup ();
+extern "C" void sockaddr_dl_t3_409_marshal ();
+extern "C" void sockaddr_dl_t3_409_marshal_back ();
+extern "C" void sockaddr_dl_t3_409_marshal_cleanup ();
+extern "C" void Win32_FIXED_INFO_t3_458_marshal ();
+extern "C" void Win32_FIXED_INFO_t3_458_marshal_back ();
+extern "C" void Win32_FIXED_INFO_t3_458_marshal_cleanup ();
+extern "C" void Win32_IP_ADAPTER_ADDRESSES_t3_368_marshal ();
+extern "C" void Win32_IP_ADAPTER_ADDRESSES_t3_368_marshal_back ();
+extern "C" void Win32_IP_ADAPTER_ADDRESSES_t3_368_marshal_cleanup ();
+extern "C" void Win32_IP_ADAPTER_INFO_t3_375_marshal ();
+extern "C" void Win32_IP_ADAPTER_INFO_t3_375_marshal_back ();
+extern "C" void Win32_IP_ADAPTER_INFO_t3_375_marshal_cleanup ();
+extern "C" void Win32_MIB_IFROW_t3_369_marshal ();
+extern "C" void Win32_MIB_IFROW_t3_369_marshal_back ();
+extern "C" void Win32_MIB_IFROW_t3_369_marshal_cleanup ();
+extern "C" void Win32_IP_ADDR_STRING_t3_377_marshal ();
+extern "C" void Win32_IP_ADDR_STRING_t3_377_marshal_back ();
+extern "C" void Win32_IP_ADDR_STRING_t3_377_marshal_cleanup ();
+extern "C" void Win32_IP_ADAPTER_UNICAST_ADDRESS_t3_454_marshal ();
+extern "C" void Win32_IP_ADAPTER_UNICAST_ADDRESS_t3_454_marshal_back ();
+extern "C" void Win32_IP_ADAPTER_UNICAST_ADDRESS_t3_454_marshal_cleanup ();
+extern "C" void Win32_SOCKADDR_t3_465_marshal ();
+extern "C" void Win32_SOCKADDR_t3_465_marshal_back ();
+extern "C" void Win32_SOCKADDR_t3_465_marshal_cleanup ();
+extern "C" void SocketInformation_t3_502_marshal ();
+extern "C" void SocketInformation_t3_502_marshal_back ();
+extern "C" void SocketInformation_t3_502_marshal_cleanup ();
+extern "C" void X509ChainStatus_t3_677_marshal ();
+extern "C" void X509ChainStatus_t3_677_marshal_back ();
+extern "C" void X509ChainStatus_t3_677_marshal_cleanup ();
+extern "C" void IntStack_t3_711_marshal ();
+extern "C" void IntStack_t3_711_marshal_back ();
+extern "C" void IntStack_t3_711_marshal_cleanup ();
+extern "C" void IntStack_t3_733_marshal ();
+extern "C" void IntStack_t3_733_marshal_back ();
+extern "C" void IntStack_t3_733_marshal_cleanup ();
+extern "C" void Interval_t3_738_marshal ();
+extern "C" void Interval_t3_738_marshal_back ();
+extern "C" void Interval_t3_738_marshal_cleanup ();
+extern "C" void UriScheme_t3_781_marshal ();
+extern "C" void UriScheme_t3_781_marshal_back ();
+extern "C" void UriScheme_t3_781_marshal_cleanup ();
+extern "C" void WaitForSeconds_t5_12_marshal ();
+extern "C" void WaitForSeconds_t5_12_marshal_back ();
+extern "C" void WaitForSeconds_t5_12_marshal_cleanup ();
+extern "C" void Coroutine_t5_16_marshal ();
+extern "C" void Coroutine_t5_16_marshal_back ();
+extern "C" void Coroutine_t5_16_marshal_cleanup ();
+extern "C" void ScriptableObject_t5_17_marshal ();
+extern "C" void ScriptableObject_t5_17_marshal_back ();
+extern "C" void ScriptableObject_t5_17_marshal_cleanup ();
+extern "C" void Gradient_t5_60_marshal ();
+extern "C" void Gradient_t5_60_marshal_back ();
+extern "C" void Gradient_t5_60_marshal_cleanup ();
+extern "C" void CacheIndex_t5_95_marshal ();
+extern "C" void CacheIndex_t5_95_marshal_back ();
+extern "C" void CacheIndex_t5_95_marshal_cleanup ();
+extern "C" void AsyncOperation_t5_2_marshal ();
+extern "C" void AsyncOperation_t5_2_marshal_back ();
+extern "C" void AsyncOperation_t5_2_marshal_cleanup ();
+extern "C" void Touch_t5_109_marshal ();
+extern "C" void Touch_t5_109_marshal_back ();
+extern "C" void Touch_t5_109_marshal_cleanup ();
+extern "C" void Object_t5_5_marshal ();
+extern "C" void Object_t5_5_marshal_back ();
+extern "C" void Object_t5_5_marshal_cleanup ();
+extern "C" void YieldInstruction_t5_13_marshal ();
+extern "C" void YieldInstruction_t5_13_marshal_back ();
+extern "C" void YieldInstruction_t5_13_marshal_cleanup ();
+extern "C" void AudioConfiguration_t5_154_marshal ();
+extern "C" void AudioConfiguration_t5_154_marshal_back ();
+extern "C" void AudioConfiguration_t5_154_marshal_cleanup ();
+extern "C" void WebCamDevice_t5_163_marshal ();
+extern "C" void WebCamDevice_t5_163_marshal_back ();
+extern "C" void WebCamDevice_t5_163_marshal_cleanup ();
+extern "C" void AnimationCurve_t5_172_marshal ();
+extern "C" void AnimationCurve_t5_172_marshal_back ();
+extern "C" void AnimationCurve_t5_172_marshal_cleanup ();
+extern "C" void AnimatorTransitionInfo_t5_177_marshal ();
+extern "C" void AnimatorTransitionInfo_t5_177_marshal_back ();
+extern "C" void AnimatorTransitionInfo_t5_177_marshal_cleanup ();
+extern "C" void SkeletonBone_t5_179_marshal ();
+extern "C" void SkeletonBone_t5_179_marshal_back ();
+extern "C" void SkeletonBone_t5_179_marshal_cleanup ();
+extern "C" void HumanBone_t5_181_marshal ();
+extern "C" void HumanBone_t5_181_marshal_back ();
+extern "C" void HumanBone_t5_181_marshal_cleanup ();
+extern "C" void CharacterInfo_t5_190_marshal ();
+extern "C" void CharacterInfo_t5_190_marshal_back ();
+extern "C" void CharacterInfo_t5_190_marshal_cleanup ();
+extern "C" void Event_t5_206_marshal ();
+extern "C" void Event_t5_206_marshal_back ();
+extern "C" void Event_t5_206_marshal_cleanup ();
+extern "C" void GcAchievementData_t5_251_marshal ();
+extern "C" void GcAchievementData_t5_251_marshal_back ();
+extern "C" void GcAchievementData_t5_251_marshal_cleanup ();
+extern "C" void GcScoreData_t5_252_marshal ();
+extern "C" void GcScoreData_t5_252_marshal_back ();
+extern "C" void GcScoreData_t5_252_marshal_cleanup ();
+extern "C" void TrackedReference_t5_176_marshal ();
+extern "C" void TrackedReference_t5_176_marshal_back ();
+extern "C" void TrackedReference_t5_176_marshal_cleanup ();
+extern "C" void EyewearCalibrationReading_t6_48_marshal ();
+extern "C" void EyewearCalibrationReading_t6_48_marshal_back ();
+extern "C" void EyewearCalibrationReading_t6_48_marshal_cleanup ();
+extern "C" void TrackableResultData_t6_101_marshal ();
+extern "C" void TrackableResultData_t6_101_marshal_back ();
+extern "C" void TrackableResultData_t6_101_marshal_cleanup ();
+extern "C" void WordResultData_t6_105_marshal ();
+extern "C" void WordResultData_t6_105_marshal_back ();
+extern "C" void WordResultData_t6_105_marshal_cleanup ();
+extern "C" void AutoRotationState_t6_113_marshal ();
+extern "C" void AutoRotationState_t6_113_marshal_back ();
+extern "C" void AutoRotationState_t6_113_marshal_cleanup ();
+extern "C" void VideoBGCfgData_t6_122_marshal ();
+extern "C" void VideoBGCfgData_t6_122_marshal_back ();
+extern "C" void VideoBGCfgData_t6_122_marshal_cleanup ();
+extern "C" void TargetSearchResult_t6_163_marshal ();
+extern "C" void TargetSearchResult_t6_163_marshal_back ();
+extern "C" void TargetSearchResult_t6_163_marshal_cleanup ();
+extern "C" void TargetFinderState_t6_164_marshal ();
+extern "C" void TargetFinderState_t6_164_marshal_back ();
+extern "C" void TargetFinderState_t6_164_marshal_cleanup ();
+extern const Il2CppMarshalingFunctions g_MarshalingFunctions[69] = 
+{
+	{ Context_t1_80_marshal, Context_t1_80_marshal_back, Context_t1_80_marshal_cleanup },
+	{ PreviousInfo_t1_81_marshal, PreviousInfo_t1_81_marshal_back, PreviousInfo_t1_81_marshal_cleanup },
+	{ Escape_t1_82_marshal, Escape_t1_82_marshal_back, Escape_t1_82_marshal_cleanup },
+	{ MonoIOStat_t1_249_marshal, MonoIOStat_t1_249_marshal_back, MonoIOStat_t1_249_marshal_cleanup },
+	{ ParameterModifier_t1_365_marshal, ParameterModifier_t1_365_marshal_back, ParameterModifier_t1_365_marshal_cleanup },
+	{ ResourceInfo_t1_377_marshal, ResourceInfo_t1_377_marshal_back, ResourceInfo_t1_377_marshal_cleanup },
+	{ DSAParameters_t1_592_marshal, DSAParameters_t1_592_marshal_back, DSAParameters_t1_592_marshal_cleanup },
+	{ RSAParameters_t1_622_marshal, RSAParameters_t1_622_marshal_back, RSAParameters_t1_622_marshal_cleanup },
+	{ ProcInfo_t3_206_marshal, ProcInfo_t3_206_marshal_back, ProcInfo_t3_206_marshal_cleanup },
+	{ InotifyEvent_t3_271_marshal, InotifyEvent_t3_271_marshal_back, InotifyEvent_t3_271_marshal_cleanup },
+	{ WaitForChangedResult_t3_263_marshal, WaitForChangedResult_t3_263_marshal_back, WaitForChangedResult_t3_263_marshal_cleanup },
+	{ SmtpResponse_t3_317_marshal, SmtpResponse_t3_317_marshal_back, SmtpResponse_t3_317_marshal_cleanup },
+	{ Win32_IN6_ADDR_t3_351_marshal, Win32_IN6_ADDR_t3_351_marshal_back, Win32_IN6_ADDR_t3_351_marshal_cleanup },
+	{ Win32_MIB_TCPROW_t3_352_marshal, Win32_MIB_TCPROW_t3_352_marshal_back, Win32_MIB_TCPROW_t3_352_marshal_cleanup },
+	{ Win32_MIB_TCP6ROW_t3_353_marshal, Win32_MIB_TCP6ROW_t3_353_marshal_back, Win32_MIB_TCP6ROW_t3_353_marshal_cleanup },
+	{ Win32_MIB_UDPROW_t3_354_marshal, Win32_MIB_UDPROW_t3_354_marshal_back, Win32_MIB_UDPROW_t3_354_marshal_cleanup },
+	{ Win32_MIB_UDP6ROW_t3_355_marshal, Win32_MIB_UDP6ROW_t3_355_marshal_back, Win32_MIB_UDP6ROW_t3_355_marshal_cleanup },
+	{ Win32_IP_PER_ADAPTER_INFO_t3_376_marshal, Win32_IP_PER_ADAPTER_INFO_t3_376_marshal_back, Win32_IP_PER_ADAPTER_INFO_t3_376_marshal_cleanup },
+	{ Win32_MIB_ICMP_EX_t3_396_marshal, Win32_MIB_ICMP_EX_t3_396_marshal_back, Win32_MIB_ICMP_EX_t3_396_marshal_cleanup },
+	{ Win32_MIBICMPSTATS_EX_t3_395_marshal, Win32_MIBICMPSTATS_EX_t3_395_marshal_back, Win32_MIBICMPSTATS_EX_t3_395_marshal_cleanup },
+	{ ifaddrs_t3_398_marshal, ifaddrs_t3_398_marshal_back, ifaddrs_t3_398_marshal_cleanup },
+	{ sockaddr_in6_t3_400_marshal, sockaddr_in6_t3_400_marshal_back, sockaddr_in6_t3_400_marshal_cleanup },
+	{ in6_addr_t3_401_marshal, in6_addr_t3_401_marshal_back, in6_addr_t3_401_marshal_cleanup },
+	{ sockaddr_ll_t3_402_marshal, sockaddr_ll_t3_402_marshal_back, sockaddr_ll_t3_402_marshal_cleanup },
+	{ ifaddrs_t3_404_marshal, ifaddrs_t3_404_marshal_back, ifaddrs_t3_404_marshal_cleanup },
+	{ in6_addr_t3_407_marshal, in6_addr_t3_407_marshal_back, in6_addr_t3_407_marshal_cleanup },
+	{ sockaddr_in6_t3_408_marshal, sockaddr_in6_t3_408_marshal_back, sockaddr_in6_t3_408_marshal_cleanup },
+	{ sockaddr_dl_t3_409_marshal, sockaddr_dl_t3_409_marshal_back, sockaddr_dl_t3_409_marshal_cleanup },
+	{ Win32_FIXED_INFO_t3_458_marshal, Win32_FIXED_INFO_t3_458_marshal_back, Win32_FIXED_INFO_t3_458_marshal_cleanup },
+	{ Win32_IP_ADAPTER_ADDRESSES_t3_368_marshal, Win32_IP_ADAPTER_ADDRESSES_t3_368_marshal_back, Win32_IP_ADAPTER_ADDRESSES_t3_368_marshal_cleanup },
+	{ Win32_IP_ADAPTER_INFO_t3_375_marshal, Win32_IP_ADAPTER_INFO_t3_375_marshal_back, Win32_IP_ADAPTER_INFO_t3_375_marshal_cleanup },
+	{ Win32_MIB_IFROW_t3_369_marshal, Win32_MIB_IFROW_t3_369_marshal_back, Win32_MIB_IFROW_t3_369_marshal_cleanup },
+	{ Win32_IP_ADDR_STRING_t3_377_marshal, Win32_IP_ADDR_STRING_t3_377_marshal_back, Win32_IP_ADDR_STRING_t3_377_marshal_cleanup },
+	{ Win32_IP_ADAPTER_UNICAST_ADDRESS_t3_454_marshal, Win32_IP_ADAPTER_UNICAST_ADDRESS_t3_454_marshal_back, Win32_IP_ADAPTER_UNICAST_ADDRESS_t3_454_marshal_cleanup },
+	{ Win32_SOCKADDR_t3_465_marshal, Win32_SOCKADDR_t3_465_marshal_back, Win32_SOCKADDR_t3_465_marshal_cleanup },
+	{ SocketInformation_t3_502_marshal, SocketInformation_t3_502_marshal_back, SocketInformation_t3_502_marshal_cleanup },
+	{ X509ChainStatus_t3_677_marshal, X509ChainStatus_t3_677_marshal_back, X509ChainStatus_t3_677_marshal_cleanup },
+	{ IntStack_t3_711_marshal, IntStack_t3_711_marshal_back, IntStack_t3_711_marshal_cleanup },
+	{ IntStack_t3_733_marshal, IntStack_t3_733_marshal_back, IntStack_t3_733_marshal_cleanup },
+	{ Interval_t3_738_marshal, Interval_t3_738_marshal_back, Interval_t3_738_marshal_cleanup },
+	{ UriScheme_t3_781_marshal, UriScheme_t3_781_marshal_back, UriScheme_t3_781_marshal_cleanup },
+	{ WaitForSeconds_t5_12_marshal, WaitForSeconds_t5_12_marshal_back, WaitForSeconds_t5_12_marshal_cleanup },
+	{ Coroutine_t5_16_marshal, Coroutine_t5_16_marshal_back, Coroutine_t5_16_marshal_cleanup },
+	{ ScriptableObject_t5_17_marshal, ScriptableObject_t5_17_marshal_back, ScriptableObject_t5_17_marshal_cleanup },
+	{ Gradient_t5_60_marshal, Gradient_t5_60_marshal_back, Gradient_t5_60_marshal_cleanup },
+	{ CacheIndex_t5_95_marshal, CacheIndex_t5_95_marshal_back, CacheIndex_t5_95_marshal_cleanup },
+	{ AsyncOperation_t5_2_marshal, AsyncOperation_t5_2_marshal_back, AsyncOperation_t5_2_marshal_cleanup },
+	{ Touch_t5_109_marshal, Touch_t5_109_marshal_back, Touch_t5_109_marshal_cleanup },
+	{ Object_t5_5_marshal, Object_t5_5_marshal_back, Object_t5_5_marshal_cleanup },
+	{ YieldInstruction_t5_13_marshal, YieldInstruction_t5_13_marshal_back, YieldInstruction_t5_13_marshal_cleanup },
+	{ AudioConfiguration_t5_154_marshal, AudioConfiguration_t5_154_marshal_back, AudioConfiguration_t5_154_marshal_cleanup },
+	{ WebCamDevice_t5_163_marshal, WebCamDevice_t5_163_marshal_back, WebCamDevice_t5_163_marshal_cleanup },
+	{ AnimationCurve_t5_172_marshal, AnimationCurve_t5_172_marshal_back, AnimationCurve_t5_172_marshal_cleanup },
+	{ AnimatorTransitionInfo_t5_177_marshal, AnimatorTransitionInfo_t5_177_marshal_back, AnimatorTransitionInfo_t5_177_marshal_cleanup },
+	{ SkeletonBone_t5_179_marshal, SkeletonBone_t5_179_marshal_back, SkeletonBone_t5_179_marshal_cleanup },
+	{ HumanBone_t5_181_marshal, HumanBone_t5_181_marshal_back, HumanBone_t5_181_marshal_cleanup },
+	{ CharacterInfo_t5_190_marshal, CharacterInfo_t5_190_marshal_back, CharacterInfo_t5_190_marshal_cleanup },
+	{ Event_t5_206_marshal, Event_t5_206_marshal_back, Event_t5_206_marshal_cleanup },
+	{ GcAchievementData_t5_251_marshal, GcAchievementData_t5_251_marshal_back, GcAchievementData_t5_251_marshal_cleanup },
+	{ GcScoreData_t5_252_marshal, GcScoreData_t5_252_marshal_back, GcScoreData_t5_252_marshal_cleanup },
+	{ TrackedReference_t5_176_marshal, TrackedReference_t5_176_marshal_back, TrackedReference_t5_176_marshal_cleanup },
+	{ EyewearCalibrationReading_t6_48_marshal, EyewearCalibrationReading_t6_48_marshal_back, EyewearCalibrationReading_t6_48_marshal_cleanup },
+	{ TrackableResultData_t6_101_marshal, TrackableResultData_t6_101_marshal_back, TrackableResultData_t6_101_marshal_cleanup },
+	{ WordResultData_t6_105_marshal, WordResultData_t6_105_marshal_back, WordResultData_t6_105_marshal_cleanup },
+	{ AutoRotationState_t6_113_marshal, AutoRotationState_t6_113_marshal_back, AutoRotationState_t6_113_marshal_cleanup },
+	{ VideoBGCfgData_t6_122_marshal, VideoBGCfgData_t6_122_marshal_back, VideoBGCfgData_t6_122_marshal_cleanup },
+	{ TargetSearchResult_t6_163_marshal, TargetSearchResult_t6_163_marshal_back, TargetSearchResult_t6_163_marshal_cleanup },
+	{ TargetFinderState_t6_164_marshal, TargetFinderState_t6_164_marshal_back, TargetFinderState_t6_164_marshal_cleanup },
+	NULL,
+};

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ironforge_RF" size="50.000000 38.647491" />
+    <ImageTarget name="WizardCard" size="50.000000 70.000000" />
+    <ImageTarget name="TroopsCard" size="50.000000 70.000000" />
+    <ImageTarget name="CatapultCard" size="50.000000 70.000000" />
+    <ImageTarget name="CannonCard" size="50.000000 70.000000" />
+  </Tracking>
+</QCARConfig>

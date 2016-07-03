@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Map" size="100.000000 70.000000" />
+    <ImageTarget name="Wizard" size="50.000000 50.000000" />
+    <ImageTarget name="Troops" size="50.000000 50.000000" />
+    <ImageTarget name="Dragon" size="50.000000 50.000000" />
+    <ImageTarget name="Catapult" size="50.000000 50.000000" />
+    <ImageTarget name="Canon" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>

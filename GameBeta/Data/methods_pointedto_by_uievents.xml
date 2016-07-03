@@ -1,0 +1,30 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="GameController">
+			<method name="onSpawnSelect"/>
+			<method name="onShowStats"/>
+			<method name="onSelectBack_Defensive"/>
+			<method name="onStoneButton"/>
+			<method name="onMoveSelect"/>
+			<method name="musicControl"/>
+			<method name="onWizardButton"/>
+			<method name="onTroopButton"/>
+			<method name="onStart"/>
+			<method name="onCannonButton"/>
+			<method name="onBlueTeam"/>
+			<method name="onSpawnTypeSelect"/>
+			<method name="onCatapultButton"/>
+			<method name="onDrawSelect"/>
+			<method name="onAttackSelect"/>
+			<method name="onHome"/>
+			<method name="onSelectBack"/>
+			<method name="onTurnEnd"/>
+			<method name="onSpawnTypeSelect"/>
+			<method name="onPowerUpAttackButton"/>
+			<method name="onSettings"/>
+			<method name="onWoodButton"/>
+			<method name="onPowerUpButton"/>
+			<method name="onRedTeam"/>
+		</type>
+	</assembly>
+</linker>
